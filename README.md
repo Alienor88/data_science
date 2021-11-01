@@ -1,4 +1,4 @@
-# data_science
+# data science ressources / code source
 
 resource for data science: https://github.com/krzjoa/awesome-python-data-science.git
 
